@@ -25,7 +25,7 @@
             <p>KBSC</p>
             <font-awesome-icon icon="fa-solid fa-angle-right" />
           </div>
-          <p>11%</p>
+          <p>11% test</p>
         </div>
 
         <div class="pt-05">
